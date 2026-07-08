@@ -1,0 +1,10 @@
+name: CmdAlias
+version: 1.0.0
+main: id.my.glitchmc.cmdalias.CmdAliasPlugin
+description: Command Alias Plugin for Minecraft
+author: azizmc
+
+commands:
+  alias:
+    description: Create or manage command aliases
+    usage: /<command> <alias> <command>
