@@ -103,6 +103,13 @@ Jar hasil build ada di `target/cmdalias.jar`.
 
 ---
 
+## 📸 Screenshots / Screenshot
+
+![CmdAlias Tab-Complete Demo](./images/cmdalias-demo.png)
+*Live tab-completion showing `/cmdalias` commands in action*
+
+---
+
 ## 📜 License / Lisensi
 
 Feel free to add your preferred license here (MIT recommended for small utility plugins).
