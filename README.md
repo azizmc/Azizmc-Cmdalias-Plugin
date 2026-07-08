@@ -28,7 +28,7 @@ Plugin Paper ringan buat bikin alias command custom secara *runtime* — gak per
 |---|---|
 | Paper | 1.21.11+ |
 | Java | 21+ |
-| [CommandAPI](https://commandapi.jorel.dev/) (Paper plugin) | 11.2.0+ |
+| [CommandAPI](https://modrinth.com/plugin/commandapi) (Paper plugin) | 11.2.0+ |
 
 > ⚠️ CommandAPI must be installed as a **separate plugin** on your server — it is not shaded into this jar.
 > ⚠️ CommandAPI harus terinstall sebagai **plugin terpisah** di server — gak di-*shade* ke dalam jar ini.
@@ -37,8 +37,8 @@ Plugin Paper ringan buat bikin alias command custom secara *runtime* — gak per
 
 ## 🔧 Installation / Instalasi
 
-1. Download and install [CommandAPI (Paper version)](https://www.spigotmc.org/resources/commandapi.102387/) into your `plugins/` folder.
-   Download dan install [CommandAPI (versi Paper)](https://www.spigotmc.org/resources/commandapi.102387/) ke folder `plugins/`.
+1. Download and install [CommandAPI (Paper version)](https://modrinth.com/plugin/commandapi) into your `plugins/` folder.
+   Download dan install [CommandAPI (versi Paper)](https://modrinth.com/plugin/commandapi) ke folder `plugins/`.
 2. Download the latest `cmdalias.jar` from [Releases](../../releases) and drop it into `plugins/` as well.
    Download `cmdalias.jar` terbaru dari [Releases](../../releases) dan taruh juga di `plugins/`.
 3. Restart your server.
@@ -60,7 +60,7 @@ Project ini pakai **Maven**. Awalnya dikembangkan dan di-build di Android lewat 
 pkg install openjdk-21 maven -y
 
 # Clone the repo / clone repo-nya
-git clone https://github.com/<your-username>/cmdalias.git
+git clone https://github.com/azizmc/cmdalias.git
 cd cmdalias
 
 # Build
@@ -70,7 +70,7 @@ mvn clean package
 ### Desktop / Linux / macOS / Windows
 
 ```bash
-git clone https://github.com/<your-username>/cmdalias.git
+git clone https://github.com/azizmc/cmdalias.git
 cd cmdalias
 mvn clean package
 ```
