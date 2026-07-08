@@ -60,7 +60,7 @@ Project ini pakai **Maven**. Awalnya dikembangkan dan di-build di Android lewat 
 pkg install openjdk-21 maven -y
 
 # Clone the repo / clone repo-nya
-git clone https://github.com/azizmc/cmdalias.git
+git clone https://github.com/azizmc/Azizmc-Cmdalias-Plugin.git
 cd cmdalias
 
 # Build
@@ -70,7 +70,7 @@ mvn clean package
 ### Desktop / Linux / macOS / Windows
 
 ```bash
-git clone https://github.com/azizmc/cmdalias.git
+git clone https://github.com/azizmc/Azizmc-Cmdalias-Plugin.git
 cd cmdalias
 mvn clean package
 ```
