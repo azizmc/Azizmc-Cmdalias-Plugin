@@ -105,7 +105,7 @@ Jar hasil build ada di `target/cmdalias.jar`.
 
 ## 📸 Screenshots / Screenshot
 
-![CmdAlias Tab-Complete Demo](./images/cmdalias-demo.png)
+![CmdAlias Tab-Complete Demo](./images/Screenshot_20260703_213334_MojoLauncher (Minecraft Java Edition for Android).jpg)
 *Live tab-completion showing `/cmdalias` commands in action*
 
 ---
