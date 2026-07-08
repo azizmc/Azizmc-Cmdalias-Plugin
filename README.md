@@ -105,7 +105,7 @@ Jar hasil build ada di `target/cmdalias.jar`.
 
 ## 📸 Screenshots / Screenshot
 
-![CmdAlias Tab-Complete Demo](./images/ss.jpg)
+![CmdAlias Tab-Complete Demo](./images/ss1.jpg)
 
 *Live tab-completion showing `/cmdalias` commands in action*
 
