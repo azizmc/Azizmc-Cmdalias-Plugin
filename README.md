@@ -1,0 +1,1 @@
+# Azizmc-Cmdalias-Plugin
