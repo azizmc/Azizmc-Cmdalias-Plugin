@@ -61,7 +61,7 @@ pkg install openjdk-21 maven -y
 
 # Clone the repo / clone repo-nya
 git clone https://github.com/azizmc/Azizmc-Cmdalias-Plugin.git
-cd cmdalias
+cd Azizmc-Cmdalias-Plugin
 
 # Build
 mvn clean package
@@ -71,7 +71,7 @@ mvn clean package
 
 ```bash
 git clone https://github.com/azizmc/Azizmc-Cmdalias-Plugin.git
-cd cmdalias
+cd Azizmc-Cmdalias-Plugin
 mvn clean package
 ```
 
